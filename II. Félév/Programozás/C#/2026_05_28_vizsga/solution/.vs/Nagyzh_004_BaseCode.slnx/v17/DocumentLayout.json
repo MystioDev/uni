@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\exhibition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\exhibition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\minta-stdout.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\minta-stdout.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\sculptures.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\sculptures.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\paintings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\paintings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\donations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\donations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\giftedartifacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\giftedartifacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\donations1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\donations1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\vase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\vase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\painting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\painting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\models\\sculpture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\models\\sculpture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\vases.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\vases.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|c:\\users\\v\u00E1radimarcellbenj\u00E1mi\\desktop\\2026_05_28\\nagyzh_004_basecode\\nagyzh_004_basecode\\interfaces\\iexhibition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DA9C7F-D300-3102-1ECD-10C25656DB2A}|Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode.csproj|solutionrelative:nagyzh_004_basecode\\interfaces\\iexhibition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Program.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Program.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:03:06.729Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiftedArtifacts.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\GiftedArtifacts.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\GiftedArtifacts.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\GiftedArtifacts.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\GiftedArtifacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:28:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Donations.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Donations.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\Donations.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Donations.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\Donations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:28:11.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exhibition.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Exhibition.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\Exhibition.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Exhibition.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\Exhibition.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:16:53.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IExhibition.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Interfaces\\IExhibition.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Interfaces\\IExhibition.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Interfaces\\IExhibition.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Interfaces\\IExhibition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:16:35.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vase.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Vase.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\Vase.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Vase.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\Vase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:07:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sculpture.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Sculpture.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\Sculpture.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Sculpture.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\Sculpture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:07:16.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Painting.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Painting.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\Painting.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Painting.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\Painting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:06:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artifact.cs",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Artifact.cs",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\Models\\Artifact.cs",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\Models\\Artifact.cs",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\Models\\Artifact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:04:46.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vases.json",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\vases.json",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\vases.json",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\vases.json",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\vases.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T07:15:15.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "paintings.json",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\paintings.json",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\paintings.json",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\paintings.json",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\paintings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T07:14:14.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "minta-stdout.txt",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\minta-stdout.txt",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\minta-stdout.txt",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\minta-stdout.txt",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\minta-stdout.txt",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-28T07:08:25.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "donations1.json",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\donations1.json",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\donations1.json",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\donations1.json",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\donations1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T07:26:01.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sculptures.json",
+              "DocumentMoniker": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\sculptures.json",
+              "RelativeDocumentMoniker": "Nagyzh_004_BaseCode\\sculptures.json",
+              "ToolTip": "C:\\Users\\V\u00E1radiMarcellBenj\u00E1mi\\Desktop\\2026_05_28\\Nagyzh_004_BaseCode\\Nagyzh_004_BaseCode\\sculptures.json",
+              "RelativeToolTip": "Nagyzh_004_BaseCode\\sculptures.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T07:15:27.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

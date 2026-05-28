@@ -1,0 +1,107 @@
+﻿
+----PART1 START----
+Van-e szarmaztatva gyerekosztaly az absztrakt ososztalybol: True
+----PART1 END----
+
+----PART2 START----
+A festmenyek osztalya megvalositva-e a megfelelo konstruktorokkal: True
+A szobrok osztalya megvalositva-e a megfelelo konstruktorokkal: True
+A vazak osztalya megvalositva-e a megfelelo konstruktorokkal: True
+A NagyzhGyakIV2.Painting osztalyban felul van-e definialva a ToString metodus: True
+A NagyzhGyakIV2.Sculpture osztalyban felul van-e definialva a ToString metodus: True
+A NagyzhGyakIV2.Vase osztalyban felul van-e definialva a ToString metodus: True
+----PART2 END----
+
+----PART3 START----
+Az IExhibition interfesz implementalva van-e: True
+Az IExhibition interfeszt implementalo NagyzhGyakIV2.Exhibition peldanyositasa sikeres-e: True
+----PART3 END----
+
+----PART4 START----
+A Load metodus letezik-e a NagyzhGyakIV2.Exhibition osztalyban: True
+Az adatok betoltese a json fajlokbol...
+Az adatok betoltese lefutott
+----PART4 END----
+
+----PART5 START----
+Display metodus ellenorzese:
+Painting C8436C : 4500000 Ft, is on display: False, size: 190x350 cm
+Painting RE4354 : 600000 Ft, is on display: False, size: 200x50 cm
+Painting LK7642 : 1650000 Ft, is on display: False, size: 150x120 cm
+Painting 54M155 : 12000000 Ft, is on display: False, size: 250x280 cm
+Sculpture TN35N2 : 2650000 Ft, is on display: False, weight: 4 kg
+Sculpture 65KJ3M : 480000 Ft, is on display: False, weight: 2 kg
+Sculpture NMB124 : 3560000 Ft, is on display: False, weight: 13 kg
+Sculpture 5HH2B6 : 26500000 Ft, is on display: False, weight: 364 kg
+Sculpture M82VP0 : 60000000 Ft, is on display: False, weight: 156 kg
+Vase NM3V57 : 350000 Ft, is on display: False, place of origin: China
+Vase LM11N7 : 1640000 Ft, is on display: False, place of origin: China
+Vase 53LKLN : 16000000 Ft, is on display: False, place of origin: Japan
+Vase 7M6LN1 : 3500000 Ft, is on display: False, place of origin: Egypt
+Vase NV32P8 : 8400000 Ft, is on display: False, place of origin: China
+Vase 921NM6 : 13000000 Ft, is on display: False, place of origin: Japan
+
+Get metodus ellenorzese:
+Id C1234LH: Sculpture NMB124 : 3560000 Ft, is on display: False, weight: 13 kg
+Id C0235LH: Painting 54M155 : 12000000 Ft, is on display: False, size: 250x280 cm
+Id C9812LR: Vase LM11N7 : 1640000 Ft, is on display: False, place of origin: China
+Id C0011LR: Painting RE4354 : 600000 Ft, is on display: False, size: 200x50 cm
+Id C8436C: Sculpture M82VP0 : 60000000 Ft, is on display: False, weight: 156 kg
+----PART5 END----
+
+----PART6 START----
+A 12 millió forint, vagy drágább tárgyak:
+Painting 54M155 : 12000000 Ft, is on display: False, size: 250x280 cm
+Sculpture 5HH2B6 : 26500000 Ft, is on display: False, weight: 364 kg
+Sculpture M82VP0 : 60000000 Ft, is on display: False, weight: 156 kg
+Vase 53LKLN : 16000000 Ft, is on display: False, place of origin: Japan
+Vase 921NM6 : 13000000 Ft, is on display: False, place of origin: Japan
+----PART6 END----
+
+----PART7 START----
+donations1.json fájlbol az donations1 objektum letrejott-e: True
+donations2.json fájlbol az donations2 objektum letrejott-e: True
+donations3.json fájlbol az donations3 objektum letrejott-e: True
+----PART7 END----
+
+----PART8 START----
+A mutárgyak listája a kölcsönzések feldolgozása után:
+Painting C8436C : 4500000 Ft, is on display: True, size: 190x350 cm
+Painting RE4354 : 600000 Ft, is on display: False, size: 200x50 cm
+Painting LK7642 : 1650000 Ft, is on display: True, size: 150x120 cm
+Painting 54M155 : 12000000 Ft, is on display: False, size: 250x280 cm
+Sculpture TN35N2 : 2650000 Ft, is on display: True, weight: 4 kg
+Sculpture 65KJ3M : 480000 Ft, is on display: False, weight: 2 kg
+Sculpture NMB124 : 3560000 Ft, is on display: False, weight: 13 kg
+Sculpture 5HH2B6 : 26500000 Ft, is on display: False, weight: 364 kg
+Sculpture M82VP0 : 60000000 Ft, is on display: True, weight: 156 kg
+Vase NM3V57 : 350000 Ft, is on display: False, place of origin: China
+Vase LM11N7 : 1640000 Ft, is on display: True, place of origin: China
+Vase 53LKLN : 16000000 Ft, is on display: False, place of origin: Japan
+Vase 7M6LN1 : 3500000 Ft, is on display: True, place of origin: Egypt
+Vase NV32P8 : 8400000 Ft, is on display: False, place of origin: China
+Vase 921NM6 : 13000000 Ft, is on display: False, place of origin: Japan
+----PART8 END----
+
+----PART9 START----
+A regisztrált mutárgyak listája:
+Painting C8436C : 4500000 Ft, is on display: True, size: 190x350 cm
+Painting LK7642 : 1650000 Ft, is on display: True, size: 150x120 cm
+Sculpture TN35N2 : 2650000 Ft, is on display: True, weight: 4 kg
+Sculpture M82VP0 : 60000000 Ft, is on display: True, weight: 156 kg
+Vase LM11N7 : 1640000 Ft, is on display: True, place of origin: China
+Vase 7M6LN1 : 3500000 Ft, is on display: True, place of origin: Egypt
+----PART9 END----
+
+----PART10 START----
+A donations1 adomány tiszteletdíja: 153750 forint
+A donations2 adomány tiszteletdíja: 105690 forint
+A donations3 adomány tiszteletdíja: 11155 forint
+----PART10 END----
+
+----PART11 START----
+A Save metodus letezik-e a NagyzhGyakIV2.Exhibition osztalyban: True
+Az adatok kimentese a json fajlokba...
+Az adatok kimentese lefutott
+----PART11 END----
+
